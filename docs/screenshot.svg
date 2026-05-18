@@ -1,0 +1,386 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 672 374" width="672" height="374" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="14">
+<rect width="100%" height="100%" fill="#0f1419"/>
+<text x="8.40" y="30.26" fill="rgb(100,116,139)" xml:space="preserve">╭───╮</text>
+<text x="58.80" y="30.26" fill="rgb(100,116,139)" xml:space="preserve">╭───╮</text>
+<text x="109.20" y="30.26" fill="rgb(100,116,139)" xml:space="preserve">╭───╮</text>
+<text x="159.60" y="30.26" fill="rgb(100,116,139)" xml:space="preserve">╭───╮</text>
+<text x="470.40" y="30.26" fill="rgb(100,116,139)" xml:space="preserve">╭───╮</text>
+<text x="520.80" y="30.26" fill="rgb(100,116,139)" xml:space="preserve">╭───╮</text>
+<text x="571.20" y="30.26" fill="rgb(100,116,139)" xml:space="preserve">╭───╮</text>
+<text x="621.60" y="30.26" fill="rgb(100,116,139)" xml:space="preserve">╭───╮</text>
+<text x="8.40" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="42.00" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="58.80" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="92.40" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="109.20" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="142.80" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="159.60" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="193.20" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="470.40" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="478.80" y="47.26" fill="rgb(107,114,128)" xml:space="preserve"> ♠ </text>
+<text x="504.00" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="520.80" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="529.20" y="47.26" fill="rgb(107,114,128)" xml:space="preserve"> ♥ </text>
+<text x="554.40" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="571.20" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="579.60" y="47.26" fill="rgb(107,114,128)" xml:space="preserve"> ♦ </text>
+<text x="604.80" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="621.60" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="630.00" y="47.26" fill="rgb(107,114,128)" xml:space="preserve"> ♣ </text>
+<text x="655.20" y="47.26" fill="rgb(100,116,139)" xml:space="preserve">│</text>
+<text x="8.40" y="64.26" fill="rgb(100,116,139)" xml:space="preserve">╰───╯</text>
+<text x="58.80" y="64.26" fill="rgb(100,116,139)" xml:space="preserve">╰───╯</text>
+<text x="109.20" y="64.26" fill="rgb(100,116,139)" xml:space="preserve">╰───╯</text>
+<text x="159.60" y="64.26" fill="rgb(100,116,139)" xml:space="preserve">╰───╯</text>
+<text x="470.40" y="64.26" fill="rgb(100,116,139)" xml:space="preserve">╰───╯</text>
+<text x="520.80" y="64.26" fill="rgb(100,116,139)" xml:space="preserve">╰───╯</text>
+<text x="571.20" y="64.26" fill="rgb(100,116,139)" xml:space="preserve">╰───╯</text>
+<text x="621.60" y="64.26" fill="rgb(100,116,139)" xml:space="preserve">╰───╯</text>
+<rect x="8.40" y="85.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="8.40" y="98.26" fill="rgb(253,224,71)" xml:space="preserve">╭───╮</text>
+<rect x="58.80" y="85.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="58.80" y="98.26" fill="rgb(221,221,221)" xml:space="preserve">╭───╮</text>
+<rect x="109.20" y="85.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="109.20" y="98.26" fill="rgb(221,221,221)" xml:space="preserve">╭───╮</text>
+<rect x="159.60" y="85.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="159.60" y="98.26" fill="rgb(221,221,221)" xml:space="preserve">╭───╮</text>
+<rect x="210.00" y="85.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="210.00" y="98.26" fill="rgb(221,221,221)" xml:space="preserve">╭───╮</text>
+<rect x="260.40" y="85.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="260.40" y="98.26" fill="rgb(221,221,221)" xml:space="preserve">╭───╮</text>
+<rect x="310.80" y="85.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="310.80" y="98.26" fill="rgb(221,221,221)" xml:space="preserve">╭───╮</text>
+<rect x="361.20" y="85.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="361.20" y="98.26" fill="rgb(221,221,221)" xml:space="preserve">╭───╮</text>
+<rect x="8.40" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="8.40" y="115.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="16.80" y="102.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="16.80" y="115.26" fill="rgb(192,21,46)" xml:space="preserve">9♥ </text>
+<rect x="42.00" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="42.00" y="115.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="58.80" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="58.80" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="67.20" y="102.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="67.20" y="115.26" fill="rgb(17,17,17)" xml:space="preserve">9♠ </text>
+<rect x="92.40" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="92.40" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="109.20" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="109.20" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="117.60" y="102.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="117.60" y="115.26" fill="rgb(17,17,17)" xml:space="preserve">10♠</text>
+<rect x="142.80" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="142.80" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="159.60" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="159.60" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="168.00" y="102.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="168.00" y="115.26" fill="rgb(17,17,17)" xml:space="preserve">3♣ </text>
+<rect x="193.20" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="193.20" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="210.00" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="210.00" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="218.40" y="102.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="218.40" y="115.26" fill="rgb(17,17,17)" xml:space="preserve">4♣ </text>
+<rect x="243.60" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="243.60" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="260.40" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="260.40" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="268.80" y="102.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="268.80" y="115.26" fill="rgb(192,21,46)" xml:space="preserve">3♦ </text>
+<rect x="294.00" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="294.00" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="310.80" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="310.80" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="319.20" y="102.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="319.20" y="115.26" fill="rgb(192,21,46)" xml:space="preserve">5♦ </text>
+<rect x="344.40" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="344.40" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="361.20" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="361.20" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="369.60" y="102.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="369.60" y="115.26" fill="rgb(192,21,46)" xml:space="preserve">7♥ </text>
+<rect x="394.80" y="102.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="394.80" y="115.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="8.40" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="8.40" y="132.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="16.80" y="119.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="16.80" y="132.26" fill="rgb(192,21,46)" xml:space="preserve">7♦ </text>
+<rect x="42.00" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="42.00" y="132.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="58.80" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="58.80" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="67.20" y="119.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="67.20" y="132.26" fill="rgb(192,21,46)" xml:space="preserve">8♦ </text>
+<rect x="92.40" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="92.40" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="109.20" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="109.20" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="117.60" y="119.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="117.60" y="132.26" fill="rgb(192,21,46)" xml:space="preserve">K♥ </text>
+<rect x="142.80" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="142.80" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="159.60" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="159.60" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="168.00" y="119.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="168.00" y="132.26" fill="rgb(192,21,46)" xml:space="preserve">6♦ </text>
+<rect x="193.20" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="193.20" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="210.00" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="210.00" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="218.40" y="119.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="218.40" y="132.26" fill="rgb(192,21,46)" xml:space="preserve">Q♥ </text>
+<rect x="243.60" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="243.60" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="260.40" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="260.40" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="268.80" y="119.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="268.80" y="132.26" fill="rgb(17,17,17)" xml:space="preserve">2♣ </text>
+<rect x="294.00" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="294.00" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="310.80" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="310.80" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="319.20" y="119.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="319.20" y="132.26" fill="rgb(17,17,17)" xml:space="preserve">10♣</text>
+<rect x="344.40" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="344.40" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="361.20" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="361.20" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="369.60" y="119.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="369.60" y="132.26" fill="rgb(192,21,46)" xml:space="preserve">A♦ </text>
+<rect x="394.80" y="119.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="394.80" y="132.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="8.40" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="8.40" y="149.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="16.80" y="136.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="16.80" y="149.26" fill="rgb(17,17,17)" xml:space="preserve">J♣ </text>
+<rect x="42.00" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="42.00" y="149.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="58.80" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="58.80" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="67.20" y="136.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="67.20" y="149.26" fill="rgb(192,21,46)" xml:space="preserve">4♦ </text>
+<rect x="92.40" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="92.40" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="109.20" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="109.20" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="117.60" y="136.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="117.60" y="149.26" fill="rgb(192,21,46)" xml:space="preserve">6♥ </text>
+<rect x="142.80" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="142.80" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="159.60" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="159.60" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="168.00" y="136.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="168.00" y="149.26" fill="rgb(17,17,17)" xml:space="preserve">7♣ </text>
+<rect x="193.20" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="193.20" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="210.00" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="210.00" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="218.40" y="136.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="218.40" y="149.26" fill="rgb(192,21,46)" xml:space="preserve">J♦ </text>
+<rect x="243.60" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="243.60" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="260.40" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="260.40" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="268.80" y="136.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="268.80" y="149.26" fill="rgb(17,17,17)" xml:space="preserve">4♠ </text>
+<rect x="294.00" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="294.00" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="310.80" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="310.80" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="319.20" y="136.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="319.20" y="149.26" fill="rgb(192,21,46)" xml:space="preserve">8♥ </text>
+<rect x="344.40" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="344.40" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="361.20" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="361.20" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="369.60" y="136.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="369.60" y="149.26" fill="rgb(17,17,17)" xml:space="preserve">J♠ </text>
+<rect x="394.80" y="136.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="394.80" y="149.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="8.40" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="8.40" y="166.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="16.80" y="153.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="16.80" y="166.26" fill="rgb(192,21,46)" xml:space="preserve">2♦ </text>
+<rect x="42.00" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="42.00" y="166.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="58.80" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="58.80" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="67.20" y="153.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="67.20" y="166.26" fill="rgb(17,17,17)" xml:space="preserve">2♠ </text>
+<rect x="92.40" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="92.40" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="109.20" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="109.20" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="117.60" y="153.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="117.60" y="166.26" fill="rgb(17,17,17)" xml:space="preserve">3♠ </text>
+<rect x="142.80" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="142.80" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="159.60" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="159.60" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="168.00" y="153.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="168.00" y="166.26" fill="rgb(192,21,46)" xml:space="preserve">3♥ </text>
+<rect x="193.20" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="193.20" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="210.00" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="210.00" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="218.40" y="153.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="218.40" y="166.26" fill="rgb(192,21,46)" xml:space="preserve">Q♦ </text>
+<rect x="243.60" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="243.60" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="260.40" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="260.40" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="268.80" y="153.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="268.80" y="166.26" fill="rgb(192,21,46)" xml:space="preserve">A♥ </text>
+<rect x="294.00" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="294.00" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="310.80" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="310.80" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="319.20" y="153.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="319.20" y="166.26" fill="rgb(17,17,17)" xml:space="preserve">5♠ </text>
+<rect x="344.40" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="344.40" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="361.20" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="361.20" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="369.60" y="153.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="369.60" y="166.26" fill="rgb(17,17,17)" xml:space="preserve">6♣ </text>
+<rect x="394.80" y="153.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="394.80" y="166.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="8.40" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="8.40" y="183.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="16.80" y="170.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="16.80" y="183.26" fill="rgb(192,21,46)" xml:space="preserve">5♥ </text>
+<rect x="42.00" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="42.00" y="183.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="58.80" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="58.80" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="67.20" y="170.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="67.20" y="183.26" fill="rgb(17,17,17)" xml:space="preserve">8♠ </text>
+<rect x="92.40" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="92.40" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="109.20" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="109.20" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="117.60" y="170.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="117.60" y="183.26" fill="rgb(17,17,17)" xml:space="preserve">5♣ </text>
+<rect x="142.80" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="142.80" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="159.60" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="159.60" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="168.00" y="170.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="168.00" y="183.26" fill="rgb(192,21,46)" xml:space="preserve">J♥ </text>
+<rect x="193.20" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="193.20" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="210.00" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="210.00" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="218.40" y="170.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="218.40" y="183.26" fill="rgb(192,21,46)" xml:space="preserve">10♦</text>
+<rect x="243.60" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="243.60" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="260.40" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="260.40" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="268.80" y="170.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="268.80" y="183.26" fill="rgb(192,21,46)" xml:space="preserve">4♥ </text>
+<rect x="294.00" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="294.00" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="310.80" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="310.80" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="319.20" y="170.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="319.20" y="183.26" fill="rgb(17,17,17)" xml:space="preserve">7♠ </text>
+<rect x="344.40" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="344.40" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="361.20" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="361.20" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="369.60" y="170.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="369.60" y="183.26" fill="rgb(17,17,17)" xml:space="preserve">Q♠ </text>
+<rect x="394.80" y="170.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="394.80" y="183.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="8.40" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="8.40" y="200.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="16.80" y="187.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="16.80" y="200.26" fill="rgb(17,17,17)" xml:space="preserve">A♠ </text>
+<rect x="42.00" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="42.00" y="200.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="58.80" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="58.80" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="67.20" y="187.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="67.20" y="200.26" fill="rgb(192,21,46)" xml:space="preserve">10♥</text>
+<rect x="92.40" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="92.40" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="109.20" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="109.20" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="117.60" y="187.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="117.60" y="200.26" fill="rgb(17,17,17)" xml:space="preserve">K♣ </text>
+<rect x="142.80" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="142.80" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="159.60" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="159.60" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="168.00" y="187.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="168.00" y="200.26" fill="rgb(192,21,46)" xml:space="preserve">9♦ </text>
+<rect x="193.20" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="193.20" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="210.00" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="210.00" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="218.40" y="187.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="218.40" y="200.26" fill="rgb(192,21,46)" xml:space="preserve">K♦ </text>
+<rect x="243.60" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="243.60" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="260.40" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="260.40" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="268.80" y="187.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="268.80" y="200.26" fill="rgb(17,17,17)" xml:space="preserve">6♠ </text>
+<rect x="294.00" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="294.00" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="310.80" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="310.80" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="319.20" y="187.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="319.20" y="200.26" fill="rgb(17,17,17)" xml:space="preserve">K♠ </text>
+<rect x="344.40" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="344.40" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="361.20" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="361.20" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="369.60" y="187.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="369.60" y="200.26" fill="rgb(17,17,17)" xml:space="preserve">Q♣ </text>
+<rect x="394.80" y="187.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="394.80" y="200.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="8.40" y="204.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="8.40" y="217.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="16.80" y="204.00" width="25.20" height="17" fill="rgb(224,242,254)"/>
+<text x="16.80" y="217.26" fill="rgb(17,17,17)" xml:space="preserve">A♣ </text>
+<rect x="42.00" y="204.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="42.00" y="217.26" fill="rgb(253,224,71)" xml:space="preserve">│</text>
+<rect x="58.80" y="204.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="58.80" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="67.20" y="204.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="67.20" y="217.26" fill="rgb(17,17,17)" xml:space="preserve">9♣ </text>
+<rect x="92.40" y="204.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="92.40" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="109.20" y="204.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="109.20" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="117.60" y="204.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="117.60" y="217.26" fill="rgb(17,17,17)" xml:space="preserve">8♣ </text>
+<rect x="142.80" y="204.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="142.80" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="159.60" y="204.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="159.60" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="168.00" y="204.00" width="25.20" height="17" fill="rgb(245,245,245)"/>
+<text x="168.00" y="217.26" fill="rgb(192,21,46)" xml:space="preserve">2♥ </text>
+<rect x="193.20" y="204.00" width="8.40" height="17" fill="rgb(245,245,245)"/>
+<text x="193.20" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">│</text>
+<rect x="210.00" y="204.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="210.00" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">╰───╯</text>
+<rect x="260.40" y="204.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="260.40" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">╰───╯</text>
+<rect x="310.80" y="204.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="310.80" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">╰───╯</text>
+<rect x="361.20" y="204.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="361.20" y="217.26" fill="rgb(221,221,221)" xml:space="preserve">╰───╯</text>
+<rect x="8.40" y="221.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="8.40" y="234.26" fill="rgb(253,224,71)" xml:space="preserve">╰───╯</text>
+<rect x="58.80" y="221.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="58.80" y="234.26" fill="rgb(221,221,221)" xml:space="preserve">╰───╯</text>
+<rect x="109.20" y="221.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="109.20" y="234.26" fill="rgb(221,221,221)" xml:space="preserve">╰───╯</text>
+<rect x="159.60" y="221.00" width="42.00" height="17" fill="rgb(245,245,245)"/>
+<text x="159.60" y="234.26" fill="rgb(221,221,221)" xml:space="preserve">╰───╯</text>
+<text x="8.40" y="268.26" fill="rgb(226,232,240)" xml:space="preserve">Moves: 0   Seed: 1592639215   Cursor: column 1 (depth 1)</text>
+<text x="8.40" y="285.26" fill="rgb(163,184,196)" xml:space="preserve">[←→/hl] move  [↑↓/kj/Tab] rows  [+/-] depth  [Space] pick/drop  [Enter] </text>
+<text x="8.40" y="302.26" fill="rgb(163,184,196)" xml:space="preserve">→foundation  [click] pick/drop  [u] undo  [n] new  [q] quit</text>
+</svg>

@@ -2,6 +2,8 @@
 
 A terminal FreeCell solitaire built with [OpenTUI](https://opentui.com).
 
+![Screenshot of the game running in a terminal](docs/screenshot.svg)
+
 ## Run
 
 ```
