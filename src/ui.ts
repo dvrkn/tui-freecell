@@ -2,6 +2,7 @@ import {
   BoxRenderable,
   TextRenderable,
   type CliRenderer,
+  type MouseEvent,
 } from "@opentui/core";
 import {
   type GameState,
@@ -13,14 +14,14 @@ import {
 import { cardLabel, cardColor, SUIT_GLYPH, type Suit } from "./cards";
 
 // ── Palette ───────────────────────────────────────────────────────────────
-const FELT = "#0a6b1f";
+const BG = "transparent"; // let terminal background show through
 const CARD_BG = "#f5f5f5";
-const SLOT_BG = "#0d8030"; // empty pile interior (slightly lighter green)
+const SLOT_BG = "transparent"; // empty pile interior
 const TEXT_BLACK = "#111111";
 const TEXT_RED = "#c0152e";
-const TEXT_HINT = "#7fbf95"; // dim glyph on empty foundations
+const TEXT_HINT = "#6b7280"; // dim glyph on empty foundations
 const BORDER_NORMAL = "#dddddd";
-const BORDER_EMPTY = "#1a8a45";
+const BORDER_EMPTY = "#64748b";
 const BORDER_CURSOR = "#fde047"; // yellow cursor
 const BORDER_SELECTED = "#fbbf24"; // amber for selected source pile
 const SELECT_BG = "#fde68a"; // highlighted card row
@@ -63,16 +64,26 @@ function makeCardText(renderer: CliRenderer): TextRenderable {
   });
 }
 
-export function buildUi(renderer: CliRenderer): UI {
-  renderer.setBackgroundColor(FELT);
+export interface PileClickHandler {
+  (pile: PileId, event: MouseEvent): void;
+}
 
+function attachClick(box: BoxRenderable, pile: PileId, onPileClick?: PileClickHandler) {
+  if (!onPileClick) return;
+  box.onMouseDown = (event: MouseEvent) => {
+    if (event.button !== 0) return; // left button only
+    onPileClick(pile, event);
+  };
+}
+
+export function buildUi(renderer: CliRenderer, onPileClick?: PileClickHandler): UI {
   const root = new BoxRenderable(renderer, {
     width: "100%",
     height: "100%",
     flexDirection: "column",
     padding: 1,
     gap: 1,
-    backgroundColor: FELT,
+    backgroundColor: BG,
   });
   renderer.root.add(root);
 
@@ -81,14 +92,14 @@ export function buildUi(renderer: CliRenderer): UI {
     flexDirection: "row",
     justifyContent: "space-between",
     width: "100%",
-    backgroundColor: FELT,
+    backgroundColor: BG,
   });
   root.add(topRow);
 
   const freeGroup = new BoxRenderable(renderer, {
     flexDirection: "row",
     gap: 1,
-    backgroundColor: FELT,
+    backgroundColor: BG,
   });
   topRow.add(freeGroup);
 
@@ -99,6 +110,7 @@ export function buildUi(renderer: CliRenderer): UI {
     const txt = makeCardText(renderer);
     box.add(txt);
     freeGroup.add(box);
+    attachClick(box, { kind: "free", index: i }, onPileClick);
     freeBoxes.push(box);
     freeTexts.push(txt);
   }
@@ -106,7 +118,7 @@ export function buildUi(renderer: CliRenderer): UI {
   const foundGroup = new BoxRenderable(renderer, {
     flexDirection: "row",
     gap: 1,
-    backgroundColor: FELT,
+    backgroundColor: BG,
   });
   topRow.add(foundGroup);
 
@@ -117,6 +129,7 @@ export function buildUi(renderer: CliRenderer): UI {
     const txt = makeCardText(renderer);
     box.add(txt);
     foundGroup.add(box);
+    attachClick(box, { kind: "found", index: i }, onPileClick);
     foundBoxes.push(box);
     foundTexts.push(txt);
   }
@@ -127,7 +140,7 @@ export function buildUi(renderer: CliRenderer): UI {
     gap: 1,
     width: "auto",
     alignItems: "flex-start",
-    backgroundColor: FELT,
+    backgroundColor: BG,
   });
   root.add(tabRow);
 
@@ -144,6 +157,7 @@ export function buildUi(renderer: CliRenderer): UI {
       padding: 0,
     });
     tabRow.add(col);
+    attachClick(col, { kind: "tab", index: i }, onPileClick);
     const pool: TextRenderable[] = [];
     for (let j = 0; j < POOL_PER_TAB; j++) {
       const t = makeCardText(renderer);
@@ -159,21 +173,21 @@ export function buildUi(renderer: CliRenderer): UI {
   const footer = new BoxRenderable(renderer, {
     flexDirection: "column",
     width: "100%",
-    backgroundColor: FELT,
+    backgroundColor: BG,
   });
   root.add(footer);
 
   const statusText = new TextRenderable(renderer, {
     content: "",
     fg: STATUS_FG,
-    bg: FELT,
+    bg: BG,
   });
   footer.add(statusText);
 
   const helpText = new TextRenderable(renderer, {
-    content: "[←→/hl] move  [↑↓/kj/Tab] rows  [+/-] depth  [Space] pick/drop  [Enter] →foundation  [u] undo  [n] new  [q] quit",
+    content: "[←→/hl] move  [↑↓/kj/Tab] rows  [+/-] depth  [Space] pick/drop  [Enter] →foundation  [click] pick/drop  [u] undo  [n] new  [q] quit",
     fg: "#a3b8c4",
-    bg: FELT,
+    bg: BG,
   });
   footer.add(helpText);
 

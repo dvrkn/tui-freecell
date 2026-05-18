@@ -1,4 +1,4 @@
-import { createCliRenderer, type KeyEvent } from "@opentui/core";
+import { createCliRenderer, type KeyEvent, type MouseEvent } from "@opentui/core";
 import {
   newGame,
   applyMove,
@@ -13,7 +13,7 @@ import {
   type GameState,
   type PileId,
 } from "./game";
-import { buildUi, render } from "./ui";
+import { buildUi, render, type UI } from "./ui";
 
 // Cursor lanes left-to-right:
 //   free 0..3 | found 0..3 | tab 0..7   (top row free+found logically; tab is its own row)
@@ -119,12 +119,13 @@ async function main() {
   const renderer = await createCliRenderer({
     exitOnCtrlC: true,
     targetFps: 30,
-    useMouse: false,
+    useMouse: true,
   });
-  const ui = buildUi(renderer);
 
   let state = newGame();
   let flash: string | null = null;
+  let ui!: UI;
+
   const draw = () => {
     render(state, ui);
     if (flash) {
@@ -132,6 +133,25 @@ async function main() {
       ui.statusText.fg = "#fca5a5";
     }
   };
+
+  const onPileClick = (pile: PileId, event: MouseEvent) => {
+    flash = null;
+    state.cursor = pile;
+    if (pile.kind === "tab" && !state.selected) {
+      // Map click Y to a card index inside the column (top border = 1 row).
+      const box = ui.tabBoxes[pile.index];
+      const row = event.y - box.screenY - 1;
+      const pileLen = state.tab[pile.index].length;
+      state.cursorDepth =
+        pileLen > 0 && row >= 0 && row < pileLen ? pileLen - row : 1;
+    } else {
+      state.cursorDepth = 1;
+    }
+    flash = state.selected ? dropOn(state) : pickUp(state);
+    draw();
+  };
+
+  ui = buildUi(renderer, onPileClick);
   draw();
 
   renderer.keyInput.on("keypress", (key: KeyEvent) => {
